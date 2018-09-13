@@ -11,7 +11,9 @@ Below is a link to a repo with a similar project along with a link to a video-de
 
 2.) found the value of the card
 
+3.) isolated suit
+
 ## TO-DO
-1.) have to find the suite of the card
+1.) classify the card suit using suit reference images
 
 2.) 
