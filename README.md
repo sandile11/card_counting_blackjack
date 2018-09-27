@@ -7,13 +7,11 @@ Below is a link to a repo with a similar project along with a link to a video-de
 
 [youtube video](https://www.youtube.com/watch?v=m-QPjO-2IkA)
 
-1.) found the card boundary
-
-2.) found the value of the card
-
-3.) isolated suit
+1. can find a card
+2. can locate and identify the suit for all numerically-valued cards
+3. can give the numerical value of a card
 
 ## TO-DO
-1.) classify the card suit using suit reference images
 
-2.) 
+1. Add identification for cards that aren't numerically-valued
+2. Adjust the system to detect cards using to corners of the image
